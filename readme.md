@@ -19,7 +19,7 @@ Hello! I'm **Ankush Patil**, a passionate **Software Developer** with a knack fo
 ## 💼 Experience
 
 ### **Software Development Intern**  
-**Zidio Development** _(Aug 2024 - Present)_  
+**Zidio Development** _(Aug 2024 - Oct 2024)_  
 - 🚀 Developed responsive web applications using **HTML**, **CSS**, **JavaScript**, and **Node.js/Express.js**.  
 - ⚡ Boosted backend performance by **30%** through optimized **MongoDB** queries.  
 - ✅ Conducted code reviews and debugging, reducing bugs by **15%** and enhancing code quality.
