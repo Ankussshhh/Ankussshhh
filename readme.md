@@ -2,7 +2,7 @@
 
 🎓 **Bachelor of Technology in Computer Science Engineering**  
 📍 **Pune, Maharashtra**  
-📫 [📧 Email](mailto:ankushpatil2002@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/ankush-patil2002/) | [⚡ LeetCode](https://leetcode.com/u/Ankusshhh/) | [💻 GitHub](https://github.com/ankuhspatil2002)
+📫 [📧 Email](mailto:ankushpatil2002@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/ankush-patil2002/) | [⚡ LeetCode](https://leetcode.com/u/Ankusshhh/) | [💻 GitHub](https://github.com/ankussshhh)
 
 ---
 
