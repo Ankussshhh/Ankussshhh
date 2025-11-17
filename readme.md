@@ -1,78 +1,111 @@
 # 🌟 Ankush Patil
 
 🎓 **Bachelor of Technology in Computer Science Engineering**  
-📍 **Pune, Maharashtra**  
-📫 [📧 Email](mailto:ankushpatil2002@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/ankush-patil2002/) | [⚡ LeetCode](https://leetcode.com/u/Ankusshhh/) | [💻 GitHub](https://github.com/ankussshhh)
+📍 Pune, Maharashtra  
+📧 **Email:** ankushpatil2002@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/ankush-patil2002/  
+💻 **GitHub:** https://github.com/ankussshhh  
+⚡ **LeetCode:** https://leetcode.com/u/Ankusshhh/
 
 ---
 
 ## 👋 About Me
 
-Hello! I'm **Ankush Patil**, a passionate **Software Developer** with a knack for crafting efficient and scalable solutions. With a solid foundation in computer science and a flair for full-stack development, I thrive on creating impactful projects that bridge functionality with user experience.  
+I’m **Ankush Patil**, a Software Developer focused on building high-performance, user-centric, and scalable applications.  
+I currently work as a **Software Developer Engineer at Vishwaguru Infotech Pvt Ltd**, developing a full-scale medical platform using **ReactJS**, **Supabase**, and **Node.js**.
 
-- 🔭 Currently working as a **Software Development Intern** at Zidio Development.  
-- 🌱 Always exploring new technologies and enhancing my skillset in **ReactJS**, **Node.js**, and more.  
-- 💡 Excited about contributing to innovative solutions and solving real-world problems.
+I’m passionate about clean architecture, real-world problem solving, and creating products that genuinely impact users.
 
 ---
 
 ## 💼 Experience
 
-### **Software Development Intern**  
-**Zidio Development** _(Aug 2024 - Oct 2024)_  
-- 🚀 Developed responsive web applications using **HTML**, **CSS**, **JavaScript**, and **Node.js/Express.js**.  
-- ⚡ Boosted backend performance by **30%** through optimized **MongoDB** queries.  
-- ✅ Conducted code reviews and debugging, reducing bugs by **15%** and enhancing code quality.
+### 🏥 **Software Developer Engineer**  
+**Vishwaguru Infotech Pvt Ltd** _(May 2024 – Present)_  
 
-### **Software Development Intern**  
-**CodersCave** _(Aug 2024 - Sep 2024)_  
-- 🛠️ Built robust backend systems using **JavaScript**, **Node.js**, and **MongoDB**.  
-- 📉 Reduced application load times by **20%** by optimizing **API calls** and frontend-backend data flow.  
-- 🔍 Delivered high-quality, bug-free code via intensive debugging sessions.
+Working on **VG Cares Global Medical Tourism Platform**, building a full healthcare ecosystem from scratch with modules spanning patients, hospitals, doctors, treatment management, bookings, financial flows, and more.
 
-### **Web Development & UI Intern**  
-**VentureLattice** _(Mar 2022 - Jul 2022)_  
-- 🌐 Created dynamic, user-friendly web applications using **JavaScript**, **Angular**, and **Bootstrap**.  
-- 🎨 Enhanced user engagement by **30%** through polished **UI/UX designs** using **Adobe XD**.  
-- ⚡ Improved web page load times by **40%** by refactoring code and implementing browser caching.
+#### 🔧 Key Contributions
+
+##### **1. Core Platform Development**
+- Designed and built **ReactJS modules** with reusable components, custom hooks, and optimized state management.
+- Integrated **Supabase authentication** with role-based permissions (Super Admin, Hospital Admin, Doctor, Patient).
+
+##### **2. Major Features Built**
+- **Multi-Hospital Availability System**  
+  Real-time doctor availability across multiple hospitals with dynamic slot updates.
+  
+- **Booking & Appointment Engine**  
+  Complex flow for patients → hospitals → doctor assignment → confirmations → follow-ups.
+
+- **Affiliation Management**  
+  Hospitals can manage affiliated doctors, pricing, and onboarding workflows.
+
+- **Notification System (Web + Mobile)**  
+  Implemented **Supabase Edge Functions** for real-time notifications triggered by database changes.
+
+- **Quotation & Package Module**  
+  Hospitals generate patient quotations with dynamic pricing, tax logic, discounting, etc.
+
+- **User Onboarding Flow**  
+  Multi-step onboarding for hospitals, doctors, and patients with validation & progress tracking.
+
+##### **3. Performance & Optimization**
+- Reduced page load times by using **React.memo**, lazy loading, and query batching.
+- Optimized Supabase queries and minimized client-side overfetching.
+
+##### **4. Architecture & Collaboration**
+- Wrote clean code following modular architecture and API contract standards.
+- Worked in sync with backend team (Supabase + Edge Functions) and mobile app developers.
+
+---
+
+### **Software Development Intern – Zidio Development** _(Aug 2024 – Oct 2024)_  
+- Built responsive web apps in **React + Node.js + MongoDB**.  
+- Improved backend performance by **30%** through query optimization.  
+- Conducted code reviews reducing bugs by **15%**.
+
+### **Software Development Intern – CodersCave** _(Aug 2024 – Sep 2024)_  
+- Built backend modules using **Node.js + Express + MongoDB**.  
+- Reduced app load time by **20%** via API optimization and cache strategies.
+
+### **Web Development & UI Intern – VentureLattice** _(Mar 2022 – Jul 2022)_  
+- Designed UI in **Adobe XD**, implemented responsive Angular UI.  
+- Improved app speed by **40%** using optimization and caching.
 
 ---
 
 ## 🚀 Projects
 
-### 🌦️ [Weather WebApp](https://github.com/ankuhspatil2002/Weather-App)  
-- 🔍 A real-time **Weather Application** utilizing third-party API integration.  
-- 🖌️ Built with **ReactJS**, **Node.js**, and **Express.js**, ensuring a seamless user experience.  
-- ⚡ Optimized backend processes, reducing load times by **30%** and improving application scalability.  
-- 📱 Designed a **responsive UI** compatible across various devices.
+### 🌦️ **Weather WebApp**  
+- Real-time weather app using **ReactJS + Weather API**.  
+- Backend optimization improved performance by **30%**.  
+- Responsive design with smooth UI/UX.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=java) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript) ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3) ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat-square&logo=mysql)
-
-**Frameworks/Technologies:**  
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js) ![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express)  
-![ReactJS](https://img.shields.io/badge/ReactJS-lightblue?style=flat-square&logo=react) ![Angular](https://img.shields.io/badge/Angular-red?style=flat-square&logo=angular)  
-
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git) ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-purple?style=flat-square&logo=adobe-xd) ![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square&logo=postman)
+**Languages:** Java, JavaScript, SQL, HTML, CSS  
+**Frontend:** ReactJS, Angular, TailwindCSS  
+**Backend:** Node.js, Express.js  
+**Databases:** Supabase, MongoDB  
+**Tools:** Git, Postman, Adobe XD
 
 ---
 
 ## 🎓 Education
 
-- **Bachelor of Technology in Computer Science Engineering**  
-  _D.Y. Patil School of Engineering and Technology, Pune_ _(Aug 2022 - Jun 2025)_  
+- **B.Tech – Computer Science Engineering**  
+  *D.Y. Patil School of Engineering & Technology, Pune* (2022 – 2025)
 
-- **Diploma in Computer Science**  
-  _D.Y. Patil Polytechnic, Ambi_ _(Aug 2018 - Jun 2022)_  
-  **Percentage:** 83%
+- **Diploma – Computer Science**  
+  *D.Y. Patil Polytechnic, Ambi* (2018 – 2022)  
+  **Score:** 83%
 
 ---
 
-## 🌟 Let's Connect!
+## 🤝 Connect with Me
 
-Feel free to reach out if you'd like to collaborate on exciting projects or discuss innovative ideas! 😊
+If you’d like to collaborate, discuss ideas, or explore opportunities — feel free to reach out!
+
